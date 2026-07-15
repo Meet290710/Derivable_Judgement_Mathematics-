@@ -11,11 +11,7 @@
 
 ### 📖 Mathematics & Advanced Statistics Project
 
-### 🎓 BCA Project
-
 **Student:** Meet Mehta
-
-**College:** M.A.B. College of Computer Application
 
 </div>
 
@@ -101,25 +97,25 @@ The healthcare dataset contains **500 records** with demographic, lifestyle, and
 
 ## 📌 Age Distribution
 
-![Age Distribution](screenshots/ss_1.png)
+![Age Distribution](screenshots/ss_1.PNG)
 
 ---
 
 ## 🌍 Region Distribution
 
-![Region Distribution](screenshots/ss_2.png)
+![Region Distribution](screenshots/ss_2.PNG)
 
 ---
 
 ## 👥 Gender Distribution
 
-![Gender Distribution](screenshots/ss_3.png)
+![Gender Distribution](screenshots/ss_3.PNG)
 
 ---
 
 ## 🔥 Correlation Matrix
 
-![Correlation Matrix](screenshots/ss_4.png)
+![Correlation Matrix](screenshots/ss_4.PNG)
 
 ---
 
