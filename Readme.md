@@ -97,25 +97,25 @@ The healthcare dataset contains **500 records** with demographic, lifestyle, and
 
 ## 📌 Age Distribution
 
-![Age Distribution](Screenshots/ss_1.PNG)
+![Age Distribution](Screenshots/ss_1.png)
 
 ---
 
 ## 🌍 Region Distribution
 
-![Region Distribution](Screenshots/ss_2.PNG)
+![Region Distribution](Screenshots/ss_2.png)
 
 ---
 
 ## 👥 Gender Distribution
 
-![Gender Distribution](Screenshots/ss_3.PNG)
+![Gender Distribution](Screenshots/ss_3.png)
 
 ---
 
 ## 🔥 Correlation Matrix
 
-![Correlation Matrix](Screenshots/ss_4.PNG)
+![Correlation Matrix](Screenshots/ss_4.png)
 
 ---
 
