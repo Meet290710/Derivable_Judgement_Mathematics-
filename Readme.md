@@ -140,11 +140,7 @@ The healthcare dataset contains **500 records** with demographic, lifestyle, and
 
 ✔ Pie Chart
 
-✔ Box Plot
-
-✔ Scatter Plot
-
-✔ Correlation Matrix
+✔ Correlation Heatmap
 
 ---
 
